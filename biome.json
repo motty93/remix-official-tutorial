@@ -25,16 +25,16 @@
 	"javascript": {
 		"formatter": {
 			"quoteStyle": "single",
-      "jsxQuoteStyle": "single",
-      "semicolons": "asNeeded"
+			"jsxQuoteStyle": "single",
+			"semicolons": "asNeeded"
 		}
-  },
-  "css": {
-    "parser": {
-      "cssModules": true
-     },
-    "formatter": {
-      "quoteStyle": "single"
-    }
-  }
+	},
+	"css": {
+		"parser": {
+			"cssModules": true
+		},
+		"formatter": {
+			"quoteStyle": "single"
+		}
+	}
 }
